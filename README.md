@@ -1,11 +1,13 @@
 
-Niral
+NIRAL
 =====
 
 Niral is a responsive but simplest grid -- nothing fancy. 
 And again this is not yet another grid, its yet another awesome grid that works well on all browsers. Sorry IE6.
 
 I use this Niral grid for all my cool projects. And it uses that ```box-sizing: border-box``` thingy, you know. :)
+
+Well, you can say this is a painfully simplest responsive grid for your awesome projects.
 
 Usage
 -----

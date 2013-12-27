@@ -1,5 +1,5 @@
 /*
- * Niral 0.2
+ * Niral 0.3
  *
  * Niral Grid is a responsive but simplest grid -- nothing fancy.
  *
@@ -16,7 +16,7 @@ body {
     letter-spacing: -.25em; 
     margin-left: auto;
     margin-right: auto;
-    max-width: 60em; /* 1120 and 960px == 60em */ 
+    max-width: 60em; 
 }
 .niral > * {   
     letter-spacing: 0;
