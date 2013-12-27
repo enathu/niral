@@ -18,6 +18,19 @@ Niral grid is easy to use.
 * Reference it on your HTML file or append with your CSS file.
 * That's all
 
+How to use
+----------
+
+`<div class="niral">`
+`<div class="nirals-60">`Some content`</div>`
+`<div class="nirals-40">`Some content`</div>`
+`</div>`
+
+Demo
+----
+
+You can look NIRAL in action [here][niral]
+
 License
 -------
 
@@ -25,3 +38,4 @@ Copyright 2013, Tharique Azeez
 Licensed under the [MIT][mit] license.
 
 [mit]: http://opensource.org/licenses/mit-license.php
+[niral]: http://niram.org/niral
