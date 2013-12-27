@@ -21,10 +21,12 @@ Niral grid is easy to use.
 How to use
 ----------
 
-`<div class="niral">`
-`<div class="nirals-60">`Some content`</div>`
-`<div class="nirals-40">`Some content`</div>`
-`</div>`
+```html
+<div class="niral">
+<div class="nirals-60">Some content</div>
+<div class="nirals-40">Some content</div>
+</div>
+```
 
 Demo
 ----
