@@ -31,12 +31,12 @@ How to use
 Demo
 ----
 
-You can look NIRAL in action [here][niral]
+Have a look at it [here][niral]
 
 License
 -------
 
-Copyright 2013, Tharique Azeez  
+Copyright 2013-14, Tharique Azeez  
 Licensed under the [MIT][mit] license.
 
 [mit]: http://opensource.org/licenses/mit-license.php
