@@ -36,7 +36,7 @@ Have a look at it [here][niral]
 License
 -------
 
-Copyright 2013-14, Tharique Azeez  
+Copyright 2013-15, Tharique Azeez  
 Licensed under the [MIT][mit] license.
 
 [mit]: http://opensource.org/licenses/mit-license.php
